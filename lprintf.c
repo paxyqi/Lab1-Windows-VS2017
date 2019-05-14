@@ -17,7 +17,6 @@
 #include <string.h>
 #include <errno.h>
 #include <math.h>
-
 #include "lprintf.h"
 
 FILE *log_file = NULL;
